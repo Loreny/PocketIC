@@ -3,6 +3,6 @@
 
     <string name="app_name">PocketIC</string>
     <string name="hello_world">Тест коммта</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Настройки</string>
 
 </resources>
